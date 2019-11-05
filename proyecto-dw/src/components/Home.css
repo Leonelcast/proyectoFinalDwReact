@@ -1,0 +1,19 @@
+#breakingNews {
+    width: 100%;
+  }
+.Destacadas{
+    text-align: center;
+}
+.card-section{
+    text-align: left;
+    background-color: rgb(172, 168, 168);
+    
+   
+}
+#white{
+    color: white;
+    font-size: 115%;
+}
+#white:hover {
+    background-color:#2ba6cb ;
+  }

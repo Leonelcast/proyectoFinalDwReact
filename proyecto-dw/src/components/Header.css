@@ -1,0 +1,11 @@
+.menu-basics-example{
+    background-color: #aa1b1b;
+
+}
+#white{
+    color: white;
+    font-size: 115%;
+}
+#white:hover {
+    background-color:#2ba6cb ;
+  }
