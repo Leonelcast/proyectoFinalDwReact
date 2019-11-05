@@ -4,16 +4,42 @@
 .Destacadas{
     text-align: center;
 }
+
 .card-section{
     text-align: left;
     background-color: rgb(172, 168, 168);
     
    
 }
+#descripcionNoticia {
+    height: 200px;
+  }
+#subtitulo{
+    color: grey;
+    text-align: center;
+}
+
 #white{
     color: white;
     font-size: 115%;
 }
 #white:hover {
     background-color:#2ba6cb ;
+  }
+  #user {
+    width: 7%;
+  }
+  .CategorySidebar h5 {
+    border-bottom: 2px solid black;
+  }
+  .CategorySidebar p {
+    font-size: 15px;
+  }
+  .CategorySidebar T {
+    background-color: black;
+    border-bottom: 3px solid black;
+    color: white;
+    padding-top: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
   }
